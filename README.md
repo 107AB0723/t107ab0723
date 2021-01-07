@@ -1,6 +1,6 @@
 # t107ab0723
 
-Jaccard為分析set1，set2屬性中的0與1的個數，系數值越大，樣本相似度越高。
+Jaccard為分析set1，set2屬性中的0與1的個數，系數值越大，樣本相似度越高。 \
 getstrings為取得我們的路徑，截取內容。
 pecheck為確認或判斷。
 若threshold設為0.8，則表示使用jaccard算出的數字只要大於等於0.8以上兩者就會進行連線。
