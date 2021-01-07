@@ -1,4 +1,4 @@
-# 107ab0723
+# 1210 HOMEWORK
 
 Jaccard為分析set1，set2屬性中的0與1的個數，系數值越大，樣本相似度越高。 \
 getstrings為取得我們的路徑，截取內容。 \
